@@ -10,7 +10,7 @@ import static org.testng.Assert.*;
 
 public class ListDicesObserverTest {
     @Test
-    public void testUpdate() throws Exception {
+    public void testWinning() throws Exception {
     }
 
 }
